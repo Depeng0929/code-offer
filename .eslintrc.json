@@ -1,0 +1,13 @@
+{
+  "env": {
+    "node": true
+  },
+  "globals": {
+  },
+  "extends": [
+    "@depeng9527/eslint-config"
+  ],
+  "rules": {
+    "no-console": "off"
+  }
+}

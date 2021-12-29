@@ -1,0 +1,22 @@
+{
+  "name": "study",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "dev": "parcel index.html --no-cache",
+    "serve": "npm run dev"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@depeng9527/k-data": "^1.0.2",
+    "@depeng9527/tools": "^1.1.2"
+  },
+  "devDependencies": {
+    "@depeng9527/eslint-config": "^1.4.0",
+    "eslint": "^8.5.0",
+    "typescript": "^4.5.4"
+  }
+}
