@@ -8,6 +8,7 @@
     "@depeng9527/eslint-config"
   ],
   "rules": {
-    "no-console": "off"
+    "no-console": "off",
+    "no-unused-vars": "off"
   }
 }
